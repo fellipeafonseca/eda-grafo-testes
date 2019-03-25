@@ -1,0 +1,76 @@
+C:\Users\121167\Documents\Estrutura de Dados\GrafoEDA\bin\Debug\GrafoEDA.exe.config
+C:\Users\Victor\Dropbox\Facens\5° Semestre\GrafoEDA\bin\Debug\GrafoEDA.exe.config
+C:\Users\Victor\Dropbox\Facens\5° Semestre\GrafoEDA\bin\Debug\GrafoEDA.exe
+C:\Users\Victor\Dropbox\Facens\5° Semestre\GrafoEDA\bin\Debug\GrafoEDA.pdb
+C:\Users\Victor\Dropbox\Facens\5° Semestre\GrafoEDA\obj\Debug\GrafoEDA.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Dropbox\Facens\5° Semestre\GrafoEDA\obj\Debug\GrafoEDA.Properties.Resources.resources
+C:\Users\Victor\Dropbox\Facens\5° Semestre\GrafoEDA\obj\Debug\GrafoEDA.csproj.GenerateResource.Cache
+C:\Users\Victor\Dropbox\Facens\5° Semestre\GrafoEDA\obj\Debug\GrafoEDA.exe
+C:\Users\Victor\Dropbox\Facens\5° Semestre\GrafoEDA\obj\Debug\GrafoEDA.pdb
+C:\Users\Braido\Dropbox\FACENS - Computação\5 Semestre\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\bin\Debug\GrafoEDA.exe.config
+C:\Users\Braido\Dropbox\FACENS - Computação\5 Semestre\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\obj\Debug\GrafoEDA.exe
+C:\Users\Braido\Dropbox\FACENS - Computação\5 Semestre\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\obj\Debug\GrafoEDA.pdb
+C:\Users\Braido\Dropbox\FACENS - Computação\5 Semestre\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\bin\Debug\GrafoEDA.exe
+C:\Users\Braido\Dropbox\FACENS - Computação\5 Semestre\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\bin\Debug\GrafoEDA.pdb
+C:\Users\Braido\Dropbox\FACENS - Computação\5 Semestre\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\obj\Debug\GrafoEDA.csprojResolveAssemblyReference.cache
+C:\Users\Braido\Dropbox\FACENS - Computação\5 Semestre\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\obj\Debug\GrafoEDA.Properties.Resources.resources
+C:\Users\Braido\Dropbox\FACENS - Computação\5 Semestre\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\obj\Debug\GrafoEDA.csproj.GenerateResource.Cache
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\bin\Debug\GrafoEDA.exe.config
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\obj\Debug\GrafoEDA.exe
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\obj\Debug\GrafoEDA.pdb
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\bin\Debug\GrafoEDA.exe
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\bin\Debug\GrafoEDA.pdb
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\obj\Debug\GrafoEDA.csprojResolveAssemblyReference.cache
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\obj\Debug\GrafoEDA.Properties.Resources.resources
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Grafo+passeios - Lab Aula 1\GrafoEDA\obj\Debug\GrafoEDA.csproj.GenerateResource.Cache
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TurmaSexta+TestesExtras_byBraido\bin\Debug\GrafoEDA.exe.config
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TurmaSexta+TestesExtras_byBraido\bin\Debug\GrafoEDA.exe
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TurmaSexta+TestesExtras_byBraido\bin\Debug\GrafoEDA.pdb
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TurmaSexta+TestesExtras_byBraido\obj\Debug\GrafoEDA.Properties.Resources.resources
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TurmaSexta+TestesExtras_byBraido\obj\Debug\GrafoEDA.csproj.GenerateResource.Cache
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TurmaSexta+TestesExtras_byBraido\obj\Debug\GrafoEDA.exe
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TurmaSexta+TestesExtras_byBraido\obj\Debug\GrafoEDA.pdb
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TurmaSexta+TestesExtras_byBraido\obj\Debug\GrafoEDA.csprojResolveAssemblyReference.cache
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TodosTestes_byBraido\bin\Debug\GrafoEDA.exe.config
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TodosTestes_byBraido\obj\Debug\GrafoEDA.exe
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TodosTestes_byBraido\obj\Debug\GrafoEDA.pdb
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TodosTestes_byBraido\bin\Debug\GrafoEDA.exe
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TodosTestes_byBraido\bin\Debug\GrafoEDA.pdb
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TodosTestes_byBraido\obj\Debug\GrafoEDA.csprojResolveAssemblyReference.cache
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TodosTestes_byBraido\obj\Debug\GrafoEDA.Properties.Resources.resources
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TodosTestes_byBraido\obj\Debug\GrafoEDA.csproj.GenerateResource.Cache
+D:\Documentos\FACENS - Engenharia da Computação\5_SEM\EDA II\Projetos\P1_TodosTestes_byBraido\obj\Debug\GrafoEDA.Principal.resources
+D:\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.exe.config
+D:\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.exe
+D:\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.pdb
+C:\Users\alexandre\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.exe.config
+C:\Users\alexandre\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.exe
+C:\Users\alexandre\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.pdb
+C:\Users\alexandre\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.exe
+C:\Users\alexandre\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.pdb
+C:\Users\alexandre\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.csprojResolveAssemblyReference.cache
+C:\Users\alexandre\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.Principal.resources
+C:\Users\alexandre\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.Properties.Resources.resources
+C:\Users\alexandre\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.csproj.GenerateResource.Cache
+C:\Users\Pryds\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.exe.config
+C:\Users\Pryds\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.exe
+C:\Users\Pryds\Dropbox\FACENS - Comp\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.pdb
+C:\Users\BRAIDO\Dropbox\FACENS-Computação\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.exe.config
+C:\Users\BRAIDO\Dropbox\FACENS-Computação\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.exe
+C:\Users\BRAIDO\Dropbox\FACENS-Computação\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.pdb
+C:\Users\BRAIDO\Dropbox\FACENS-Computação\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.exe
+C:\Users\BRAIDO\Dropbox\FACENS-Computação\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.pdb
+C:\Users\BRAIDO\Dropbox\FACENS-Computação\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.csprojResolveAssemblyReference.cache
+C:\Users\BRAIDO\Dropbox\FACENS-Computação\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.Principal.resources
+C:\Users\BRAIDO\Dropbox\FACENS-Computação\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.Properties.Resources.resources
+C:\Users\BRAIDO\Dropbox\FACENS-Computação\5 Semestre\EDA II\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.csproj.GenerateResource.Cache
+C:\Users\Fellipe\Documents\tste\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.exe.config
+C:\Users\Fellipe\Documents\tste\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.exe
+C:\Users\Fellipe\Documents\tste\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\bin\Debug\GrafoEDA.pdb
+C:\Users\Fellipe\Documents\tste\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.csprojAssemblyReference.cache
+C:\Users\Fellipe\Documents\tste\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.Principal.resources
+C:\Users\Fellipe\Documents\tste\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.Properties.Resources.resources
+C:\Users\Fellipe\Documents\tste\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.csproj.GenerateResource.cache
+C:\Users\Fellipe\Documents\tste\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Documents\tste\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.exe
+C:\Users\Fellipe\Documents\tste\Grafo_Dijkstra+Euleriano+Testes_byBEBraido\obj\Debug\GrafoEDA.pdb
